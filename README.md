@@ -1,5 +1,5 @@
 <h1 align="center">Yo,it's Spunch</h1>
-<h3 align="center">Python Learner, part time C++ struggler</h3>
+<h3 align="center">Python Learner and part time C++ struggler</h3>
 
 - 🗣 Professional **Rapper**
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **Nerd shit**
 
 - ⚡ Fun fact **I have no social skills**
-
-- 🤣 **Skibidi Toilet Ohio Rizz**
 
 <p align="left">
 </p>
